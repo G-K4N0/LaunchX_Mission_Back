@@ -5,10 +5,15 @@
 Primero empezamos por el principio, comenzamos con el pre-working --> Instalación de las cosas que necesitamos.
 
 En este viaje, instalamos:
+
 [+] Nodejs
+
 [+] Mongodb
+
 [+] MySql
+
 [+] Git
+
 [+] Visual Studio Code
 
 Los comienzos:
